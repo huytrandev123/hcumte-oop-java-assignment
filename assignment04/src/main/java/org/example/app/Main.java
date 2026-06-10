@@ -33,22 +33,22 @@ public class Main {
         // Readers
         Student s1 = new Student(
                 "S001",
-                "Nguyen Van A",
-                "a@gmail.com",
+                "Trần Đỗ Quang Huy",
+                "26tx810012@student.hcmute.edu.vn",
                 "SV123"
         );
 
         Student s2 = new Student(
                 "S002",
-                "Tran Van B",
-                "b@gmail.com",
+                "Nguyễn Văn Bình",
+                "binh@gmail.com",
                 "SV456"
         );
 
         Lecturer l1 = new Lecturer(
                 "L001",
-                "Le Van C",
-                "c@gmail.com",
+                "Lê Vaăn Cuường",
+                "cuong@gmail.com",
                 "Information Technology"
         );
 
